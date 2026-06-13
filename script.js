@@ -59,6 +59,9 @@ const translations = {
     contact_title: "Let’s connect.",
     contact_p: "For speaking, advisory, partnerships, or strategic conversations:",
     footer: "All rights reserved."
+    cert_eyebrow: "Certifications & Professional Development",
+    cert_title: "Continuous learning as a professional commitment.",
+    cert_intro: "Executive education and professional development in leadership, innovation, digital transformation, and institutional strategy.",
   },
   es: {
     nav_about: "Perfil",
@@ -120,6 +123,9 @@ const translations = {
     contact_title: "Conversemos.",
     contact_p: "Para charlas, asesorías, alianzas o conversaciones estratégicas:",
     footer: "Todos los derechos reservados."
+    cert_eyebrow: "Certificaciones y Desarrollo Profesional",
+    cert_title: "El aprendizaje continuo como compromiso profesional.",
+    cert_intro: "Formación ejecutiva y desarrollo profesional en liderazgo, innovación, transformación digital y estrategia institucional.",
   }
 };
 
